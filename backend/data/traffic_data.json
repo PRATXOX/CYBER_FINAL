@@ -1,0 +1,79 @@
+{
+  "timestamp": "2026-04-18T22:38:05.490152",
+  "traffic_flow": [
+    {
+      "location_name": "Connaught Place",
+      "coordinates": {
+        "lat": 28.6304,
+        "lon": 77.2177
+      },
+      "speed_kmh": 70.85,
+      "status": "Free"
+    },
+    {
+      "location_name": "Gurugram Expressway",
+      "coordinates": {
+        "lat": 28.4595,
+        "lon": 77.0266
+      },
+      "speed_kmh": 29.33,
+      "status": "Moderate"
+    },
+    {
+      "location_name": "Noida Sector 18",
+      "coordinates": {
+        "lat": 28.5708,
+        "lon": 77.3271
+      },
+      "speed_kmh": 44.08,
+      "status": "Moderate"
+    },
+    {
+      "location_name": "Ashram Chowk",
+      "coordinates": {
+        "lat": 28.5733,
+        "lon": 77.2595
+      },
+      "speed_kmh": 75.61,
+      "status": "Free"
+    }
+  ],
+  "cctv_density": [
+    {
+      "location_name": "Connaught Place",
+      "coordinates": {
+        "lat": 28.6304,
+        "lon": 77.2177
+      },
+      "vehicle_count": 29,
+      "density": "Low"
+    },
+    {
+      "location_name": "Gurugram Expressway",
+      "coordinates": {
+        "lat": 28.4595,
+        "lon": 77.0266
+      },
+      "vehicle_count": 25,
+      "density": "Low"
+    },
+    {
+      "location_name": "Noida Sector 18",
+      "coordinates": {
+        "lat": 28.5708,
+        "lon": 77.3271
+      },
+      "vehicle_count": 101,
+      "density": "High"
+    },
+    {
+      "location_name": "Ashram Chowk",
+      "coordinates": {
+        "lat": 28.5733,
+        "lon": 77.2595
+      },
+      "vehicle_count": 144,
+      "density": "High"
+    }
+  ]
+}
